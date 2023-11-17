@@ -33,3 +33,6 @@
 
 # CMake Build Results
 build/*
+
+# VSCode Configuration files
+.vscode/*
